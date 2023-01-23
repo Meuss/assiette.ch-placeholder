@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-	<title>picole.ch</title>
+	<title>assiette.ch</title>
 </svelte:head>
 
 <main>
